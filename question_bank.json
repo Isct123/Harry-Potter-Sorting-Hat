@@ -1,0 +1,13 @@
+{
+    "What do you consider yourself to be?": [["Smart", "Loyal", "Cunning", "Brave"], ["r", "h", "s", "g"]],
+    "Someone robbed money from a man in front of you, what would you do?": [["Report him to the cops", "Nothing, but if it was my money, I would report", "Chase the person and retrieve the money", "Try and steal money from the person who stole the money"], ["h", "r", "g", "s"]],
+    "You are making a presentation for a class project, you...": [["Lead the group and end up doing most of the work", "Do as little as you can", "Do a little bit of everything", "Do most of the research and writing but make others decorate the presentation"], ["g", "s", "h", "r"]],
+    "Do you cheat in class?" : [["Obviously not", "You try your best not to, but sometimes you find it impossible to continue without cheating", "Cheat quite a bit, everyone cheats", "Cheat all the time"], ["r", "h", "g", "s"]],
+    "What is your mission in life?" :[["Have enough money to support your family", "Be successful and have traveled the world", "Be surrounded by lifelong friends", "Have learned everything there is to know"], ["g", "s", "r", "h"]],
+    "Which of these best describes your relationship with your closest friends": [["I love friends, the more people, the better", "I have a few close friends to trust with my life", "I'm bad at making friends, and I don't have any", "I become friends with people who can help me succeed"], ["h", "g", "r", "s"]],
+    "Your favourite extracurricular activity is...": [["Being monitor in class and student council", "Sports team", "Club sessions", "Debate/Academic team"], ["s", "g", "h", "r"]],
+    "How would you spend your summer vacation?":[["Chilling at home and spending time with friends", "Going on a crazy adventure", "Reading a book on your balcony", "Summer school"], ["h", "g", "s", "r"]],
+    "How do you get your alone time if you want it?": [["Cancel a play date with your friends", "Tell your friends that you are busy and go to your room", "Disappear for a long time", "Go walking around outside or do errands"], ["s", "h", "r", "g"]],
+    "When planning a group trip, you normally...":[["Think most about travel plans. You take the responsibility of planning", "Let others worry about the destination and logistics, you are interested in the trip", "Follow the leader and cast your vote when needed. You're on trip to relax, not stress.", "You become the backup leader and recommend"], ["r", "g", "s", "h"]],
+    "What is your secret fear?" :[["That I won't be brave enough", "That I haven't worked hard enough", "That I might not be clever enough", "That I might not be rich enough."], ["g", "h", "r", "s"]]
+}

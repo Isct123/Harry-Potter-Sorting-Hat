@@ -1,6 +1,5 @@
 # Harry-Potter-Sorting-Hat
-This was a school project, and it turned out really well. I'm pretty pleased
-
+8th grade school project goes wild
 **Requirements:**
  1. Builtin Python modules such as Tkinter, OS, operator, json, etc.
  2. Third party python modules pyglet and pygame. In case your computer doesn't meet these requirements, you the program will automatically install the modules for you.
